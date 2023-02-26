@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "author": "Ahmet Hamdi Tanpınar",
+    "title": "26.02.2023",
+    "description": "İnsan birisini bu kadar severse nasıl darılır? diyordu. Hiç darılabilir mi? Muhakkak yorulmuştur.",
+    "imageUrl": "https://i4.hurimg.com/i/hurriyet/75/750x422/61244df44e3fe112d0dacec5.jpg"
+  },
+  {
+    "id": 1,
+    "author": "Stefan Zweig",
+    "title": "25.02.2023",
+    "description": "Birisi bana ihtiyaç duyuyor, beni arıyordu, ilk kez bu dünyaya ait birisi için var olduğumu hissediyordum. ",
+    "imageUrl": "https://cdn.oggito.com/images/full/2015/11/Stefan-Zweig2.jpg"
+  },
+  {
+    "id": 2,
+    "author": "İsmet Özel",
+    "title": "24.02.2023",
+    "description":"Bir şehrin uzak semtleri gibi gözlerin; Üzgün, kara, ayaklanmaya hazır.",
+    "imageUrl":"https://www.cuneytpolat.com/wp-content/uploads/2019/03/ismet_ozel-1.jpg"
+  },
+  {
+    "id": 3,
+    "author": "Hikmet Anıl Öztekin",
+    "title": "23.02.2023",
+    "description":  "Mesele sevmek değil azizim, kime sorsam herkes seviyor zaten. Mühim olan güzel sevebilmek, kırmadan, dökmeden, yormadan, acıtmadan... ",
+    "imageUrl": "https://kitapalintilari.com/wp-content/uploads/2021/03/HikmetAnilOztekinHayati.jpg"
+  },
+  {
+    "id": 4,
+    "author": "Sabahattin Ali",
+    "title": "22.02.2023",
+    "description": "Başkalarına gülsem de, senden uzak kalsam da, sevmediğini bilsem de, ben gene sana vurgunum... ",
+    "imageUrl": "https://static.birgun.net/resim/haber-detay-resim/2022/04/04/sabahattin-ali-kimdir-hayati-kisiligi-gorusleri-ve-eserleri-999097-5.jpg"
+  }
+]
